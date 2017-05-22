@@ -2,8 +2,8 @@
 
 
 
-# THIS IS REALLY WIP AND THE GITHUB IS HERE READY FOR WHEN I ACTUALLY MAKE IT PUBLIC, 
-# IN IT'S CURRENT STATE IT IS LIKE A FORKBOMB BECAUSE IT FAILS TO KILL A COMMAND THREAD AFTER USING IT.
+# THIS PROJECT WAS ABANDONED
+## This repo will still be here as a legacy asset
 
 ## About
 ### Discord.ps1 is really pointless way for you to waste 8GB RAM hosting and to connect and interact with the [Discord API](https://discordapp.com/developers/docs/intro) through Powershell.
