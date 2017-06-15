@@ -5,7 +5,6 @@
 
 ## Why?
 This was originally made as a joke but i decided to attept to make it real, 
-Currently it is in a really **WIP** state, Crashes, Memory leaks and accidental bugs are very common currently
 
 ## Todo
 
