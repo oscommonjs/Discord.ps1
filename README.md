@@ -31,6 +31,8 @@ Currently in progress
 * Fade - Fixing the gateway bug
 * Jane Petrovna - For finding a async module to work with
 * Flexy - Emotional support, Kept me going through the creation of this 
+* KaosHeaven - Also emotional support
+* **and all of the amazing people in my discord guild!!**
 ### Powershell Gallery Modules/cmdlets used
 * https://www.powershellgallery.com/packages/pspostman/1.0.31 - Managing post requests via the API to `discordapp.com/api/$APIVer/$APIEndpoint` `$APIEndpoint` is managed by sorting the var's to a list
 * Autophox - custom powershell module for autostarting the project and starting it backup after a crash as a fail safe, The module can also be used for automation of tasks in a AHK (Autohotkey) style of way 
