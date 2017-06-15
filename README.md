@@ -1,7 +1,9 @@
 # Discord.ps1
 
 ## About
+### THE CURRENT FILE ON GITHUB ISN'T ALL YOU NEED YOU WILL NEED THE `Invoke-Discord.ps1` MODULE AND `Sockets-Discord.ps1` TO ACTUALLY BE ABLE TO USE THIS AS A FUNCTIONING LIB, THE CURRENT FILES HERE ARE EXTRAS THAT ARE FINISHED
 ### Discord.ps1 is really pointless way for you to waste 8GB RAM hosting and to connect and interact with the [Discord API](https://discordapp.com/developers/docs/intro) through Powershell.
+
 
 ## Why?
 This was originally made as a joke but i decided to attept to make it real, 
