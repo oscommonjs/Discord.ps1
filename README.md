@@ -1,9 +1,10 @@
 # Discord.ps1
 
 ## About
-### THE CURRENT FILE ON GITHUB ISN'T ALL YOU NEED YOU WILL NEED THE `Invoke-Discord.ps1` MODULE AND `Sockets-Discord.ps1` TO ACTUALLY BE ABLE TO USE THIS AS A FUNCTIONING LIB, THE CURRENT FILES HERE ARE EXTRAS THAT ARE FINISHED
 ### Discord.ps1 is really pointless way for you to waste 8GB RAM hosting and to connect and interact with the [Discord API](https://discordapp.com/developers/docs/intro) through Powershell.
 
+`Invoke-Discord.ps1` and `Sockets-Discord.ps1` are needed for this to function correctly, 
+`Sockets-Discord.ps1` isn't currently public due to it having to use local client id's etc..etc.. Eventually i will find a fix  
 
 ## Why?
 This was originally made as a joke but i decided to attept to make it real, 
@@ -45,6 +46,10 @@ Currently in progress
 * Even if it was public, The bot wouldn't be stable for use (Crashes and errors), 
 * Lastly, Writing the actual bot is the hardest part because you need to setup the entire endpoint structure and make sure your system has the right dependencies (*which we don't actually have a list for yet*)
 
+### Backstory
+So me and a few people were talking about making a discord lib with a dumb language so i ended up making a suggestion for Powershell and they had doubt in me,
+Also this image below is something that came along during the "adventure" of making this, :hearts:
+![This started it all](how_discord.ps1_became_a_thing.png)
 
 
 
