@@ -9,6 +9,8 @@
 ## Why?
 This was originally made as a joke but i decided to attept to make it real, 
 
+![This started it all](how_discord.ps1_became_a_thing.png)
+
 ## Todo
 
 - [ ] Make the lib actually worth using and stable before sharing.
@@ -48,8 +50,7 @@ Currently in progress
 
 ### Backstory
 So me and a few people were talking about making a discord lib with a dumb language so i ended up making a suggestion for Powershell and they had doubt in me,
-Also this image below is something that came along during the "adventure" of making this, :hearts:
-![This started it all](how_discord.ps1_became_a_thing.png)
+
 
 
 
