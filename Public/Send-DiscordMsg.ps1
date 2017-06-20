@@ -1,4 +1,7 @@
-﻿Function Send-DiscordMsg {
+﻿# Needed module of ConvertTo-Json is in /Private and isn't up on github
+
+
+Function Send-DiscordMsg {
     [cmdletbinding()]
     Param(
         [Parameter(Mandatory=$true)]
