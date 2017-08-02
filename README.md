@@ -5,7 +5,7 @@
 
 `Invoke-Discord.ps1` and `Sockets-Discord.ps1` are needed for this to function correctly, 
 `Sockets-Discord.ps1` isn't currently public due to it having to use local client id's etc..etc.. Eventually i will find a fix  
-## PROJECT IS NO LONGER MAINTAINED BY ME, @SweetFade WILL BE MAINTAINING
+## PROJECT IS NO LONGER MAINTAINED BY BRIANNA, @SweetFade (Jess) WILL BE MAINTAINING IT
 
 ## Why?
 This was originally made as a joke but i decided to attept to make it real, 
