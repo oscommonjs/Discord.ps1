@@ -7,6 +7,11 @@
 `Sockets-Discord.ps1` isn't currently public due to it having to use local client id's etc..etc.. Eventually i will find a fix  
 ## PROJECT IS NO LONGER MAINTAINED BY BRIANNA, @SweetFade (Jess) WILL BE MAINTAINING IT
 
+## Needed Modules
+[ConvertTo-Json](https://docs.microsoft.com/en-us/powershell/module/Microsoft.PowerShell.Utility/ConvertTo-Json) - Powershell 5.1 and above
+Send-DiscordMsg - comes with repo clone
+Invoke-DiscordBot - comes with repo clone (Install module Invoke-DiscordBot-Dev and allias)
+
 ## Why?
 This was originally made as a joke but i decided to attept to make it real, 
 
