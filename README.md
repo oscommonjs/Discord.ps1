@@ -17,6 +17,11 @@ This was originally made as a joke but i decided to attept to make it real,
 
 ![This started it all](how_discord.ps1_became_a_thing.png)
 
+## Needed Modules
+[ConvertTo-Json](https://docs.microsoft.com/en-us/powershell/module/Microsoft.PowerShell.Utility/ConvertTo-Json) - Powershell 5.1 and above
+Send-DiscordMsg - comes with repo clone
+Invoke-DiscordBot - comes with repo clone (Install module Invoke-DiscordBot-Dev and allias)
+
 ## Todo
 
 - [ ] Make the lib actually worth using and stable before sharing.
