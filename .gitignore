@@ -1,4 +1,4 @@
 # Private folder
 Private/*
 # Shh
-*.xml
+config/config.xml
